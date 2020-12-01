@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LeKUqgbhDmat+LXLJmjXjnFc3UMTjAFAbGKLtfykTYCSsDVCl82oZC5pYev+jmV1VOek8zi0wzRgGOLHPqMvNw==",
+  "dgSpecHash": "1MFe/hg8dkYpSyZxjPEv8WV2Z8zpi7FI2NjpeBsxyWlrcHx8FJFoN/9zKwAVKjOKHdzph0RCOYBDTiVO7qYf3Q==",
   "success": true,
-  "projectFilePath": "/home/harun/Desktop/CORE/EmployeeMenagment/EmployeeMenagment.csproj",
+  "projectFilePath": "/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/EmployeeMenagment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

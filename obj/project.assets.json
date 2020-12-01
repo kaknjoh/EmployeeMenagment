@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/harun/Desktop/CORE/EmployeeMenagment/EmployeeMenagment.csproj",
+      "projectUniqueName": "/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/EmployeeMenagment.csproj",
       "projectName": "EmployeeMenagment",
-      "projectPath": "/home/harun/Desktop/CORE/EmployeeMenagment/EmployeeMenagment.csproj",
+      "projectPath": "/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/EmployeeMenagment.csproj",
       "packagesPath": "/home/harun/.nuget/packages/",
-      "outputPath": "/home/harun/Desktop/CORE/EmployeeMenagment/obj/",
+      "outputPath": "/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/harun/.nuget/NuGet/NuGet.Config"
