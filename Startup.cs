@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using EmployeeMenagment.Models;
 
 namespace EmployeeMenagment
 {
@@ -17,7 +18,8 @@ namespace EmployeeMenagment
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvcCore(option => option.EnableEndpointRouting = false);
+            services.AddMvcCore(option => option.EnableEndpointRouting = false).AddXmlSerializerFormatters();
+            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
            
         }
 
