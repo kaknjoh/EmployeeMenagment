@@ -67,3 +67,14 @@
 /home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/ref/EmployeeMenagment.dll
 /home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.pdb
 /home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.genruntimeconfig.cache
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/bin/Debug/net5.0/EmployeeMenagment.Views.dll
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/bin/Debug/net5.0/EmployeeMenagment.Views.pdb
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.RazorAssemblyInfo.cache
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.RazorAssemblyInfo.cs
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.TagHelpers.input.cache
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.TagHelpers.output.cache
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.RazorCoreGenerate.cache
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/Razor/Views/Home/Details.cshtml.g.cs
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.RazorTargetAssemblyInfo.cs
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.Views.pdb
+/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/obj/Debug/net5.0/EmployeeMenagment.csproj.CopyComplete

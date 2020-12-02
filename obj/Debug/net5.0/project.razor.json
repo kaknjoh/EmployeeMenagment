@@ -15601,6 +15601,12 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "EmployeeMenagment",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/harun/Desktop/ASPNETCORE/EmployeeMenagment/Views/Home/Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
