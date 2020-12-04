@@ -12,9 +12,9 @@ namespace EmployeeMenagment.Models
         private List<Employee> _employeeList;
         public MockEmployeeRepository(){
             _employeeList=new List<Employee>(){
-                new Employee (){Id=1, Name="Harun", Department="HR", Email="harun.kaknjo@size.ba"},
-                new Employee (){Id=2, Name="Ahmet", Department="IT", Email="ahmet.durmic@size.ba"},
-                new Employee (){Id=3, Name="Muhamed", Department="IT", Email="muhamed.malkoc@size.ba"}
+                new Employee (){Id=1, Name="Harun", Department=Dept.Hr, Email="harun.kaknjo@size.ba"},
+                new Employee (){Id=2, Name="Ahmet", Department=Dept.IT, Email="ahmet.durmic@size.ba"},
+                new Employee (){Id=3, Name="Muhamed", Department=Dept.Payroll, Email="muhamed.malkoc@size.ba"}
             };
 
         }
@@ -26,6 +26,13 @@ namespace EmployeeMenagment.Models
         public IEnumerable<Employee>  getAllEmployees()
         {
             return _employeeList;
+        }
+
+
+        public Employee Add(Employee employee){
+            employee.Id=_employeeList.Max(e => e.Id)+1;
+            _employeeList.Add(employee);
+            return employee;
         }
 
 
